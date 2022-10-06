@@ -6,3 +6,4 @@ list1.sort()
  
 # printing the first element
 print("Smallest element is:", list1[0])
+
